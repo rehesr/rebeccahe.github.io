@@ -1,5 +1,5 @@
-baseurl = "https://rehesr.github.io/rebeccahe.github.io/"
-title = "Hugo Website"
+baseurl = "https://rebeccahe.github.io/"
+title = "Personal Website"
 theme = "nix"
 languageCode = "en-us"
 
